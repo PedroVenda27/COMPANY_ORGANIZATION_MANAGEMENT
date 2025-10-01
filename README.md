@@ -6,11 +6,13 @@ O trabalho tem como objetivo aplicar os conceitos lecionados na UC ao estudo de 
 
 ---
 
-## 🚀 Estrutura do Projeto
-- 📂 [OGE_PROJECT](./OGE_PROJECT)  
-   - 📄 [FinalWorkPresentation_SumolCompal.pdf](./OGE_PROJECT/FinalWorkPresentation_SumolCompal.pdf) → Apresentação Final  
-   - 📄 [ProjectRequirements_OGE.pdf](./OGE_PROJECT/ProjectRequirements_OGE.pdf) → Enunciado/Orientações do Trabalho  
-   - 📄 [README.md](./OGE_PROJECT/README.md) → Relatório do Projeto e Síntese do Estudo de Caso  
+## 🚀 Estrutura do Repositório
+- 📂 [ORG_MANG_PROJECT](./ORG_MANG_PROJECT) → Project Folder
+   - 📄 [FinalWorkPresentation_SumolCompal.pdf](./ORG_MANG_PROJECT/FinalWorkPresentation_SumolCompal.pdf) → Apresentação Final (PDF)  
+   - 📄 [FinalWorkPresentation_SumolCompal.pptx](./ORG_MANG_PROJECT/FinalWorkPresentation_SumolCompal.pptx) → Apresentação Final (PPTX)  
+   - 📄 [FinalWorkReport_SumolCompal.odt](./ORG_MANG_PROJECT/FinalWorkReport_SumolCompal.odt) → Relatório Final (ODT)  
+   - 📄 [FinalWorkReport_SumolCompal.pdf](./ORG_MANG_PROJECT/FinalWorkReport_SumolCompal.pdf) → Relatório Final (PDF)  
+   - 📄 [ProjectRequirements_OGE.pdf](./ORG_MANG_PROJECT/ProjectRequirements_OGE.pdf) → Enunciado/Orientações da UC  
 
 ---
 
