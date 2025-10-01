@@ -1,52 +1,41 @@
-# 📊 Organização e Gestão de Empresas — Estudo de Caso Sumol+Compal
+# 📊 Business Organization and Management — Case Study Sumol+Compal
 
-Este repositório contém o desenvolvimento de um projeto académico realizado no âmbito da Unidade Curricular **Organização e Gestão de Empresas (OGE)**, do curso de **Informática (1.º ano, Universidade da Maia - UMAIA)**.  
+This repository contains the development of the **final project for the course Business Organization and Management (OGE)**, part of the **Informatics degree (2nd year, Universidade da Maia - UMAIA)**.  
 
-O trabalho tem como objetivo aplicar os conceitos lecionados na UC ao estudo de uma empresa real, sendo escolhida a **Sumol+Compal**, referência nacional e internacional no setor das bebidas não alcoólicas.
-
----
-
-## 🚀 Estrutura do Repositório
-- 📂 [ORG_MANG_PROJECT](./ORG_MANG_PROJECT) → Project Folder
-   - 📄 [FinalWorkPresentation_SumolCompal.pdf](./ORG_MANG_PROJECT/FinalWorkPresentation_SumolCompal.pdf) → Apresentação Final (PDF)  
-   - 📄 [FinalWorkPresentation_SumolCompal.pptx](./ORG_MANG_PROJECT/FinalWorkPresentation_SumolCompal.pptx) → Apresentação Final (PPTX)  
-   - 📄 [FinalWorkReport_SumolCompal.odt](./ORG_MANG_PROJECT/FinalWorkReport_SumolCompal.odt) → Relatório Final (ODT)  
-   - 📄 [FinalWorkReport_SumolCompal.pdf](./ORG_MANG_PROJECT/FinalWorkReport_SumolCompal.pdf) → Relatório Final (PDF)  
-   - 📄 [ProjectRequirements_OGE.pdf](./ORG_MANG_PROJECT/ProjectRequirements_OGE.pdf) → Enunciado/Orientações da UC  
+The chosen case study was **Sumol+Compal**, a leading company in the non-alcoholic beverages sector in Portugal, analyzed according to the main concepts of Business Organization and Management.
 
 ---
 
-## 📌 Conteúdos Desenvolvidos
-
-O estudo de caso segue as orientações da UC, abordando os principais tópicos de análise empresarial:
-
-1. **História da Organização** — origem da Sumol e da Compal e processo de fusão.  
-2. **Gestores-Chave e Feitos Alcançados** — figuras relevantes na trajetória e marcos estratégicos.  
-3. **Forma Jurídica** — estrutura legal, órgãos de administração e fiscalização.  
-4. **Produtos, Serviços e Mercados** — principais gamas, marcas e expansão internacional.  
-5. **Missão, Visão e Valores** — identidade organizacional.  
-6. **Variáveis Internas e Externas** — fatores críticos de funcionamento.  
-7. **Análise PEST e SWOT** — diagnóstico estratégico.  
-8. **Estratégias Empresariais** — linhas de ação e posicionamento competitivo.  
-9. **Estrutura Organizacional** — organograma, evolução e modelo de gestão.  
-10. **Práticas Motivacionais, Liderança e Cultura Organizacional**.  
-11. **Ferramentas de Comunicação e Barreiras**.  
-12. **Ética e Responsabilidade Social Empresarial**.  
+## 🚀 Repository Structure
+- 📂 [ORG_MANG_PROJECT](./ORG_MANG_PROJECT) → Main project folder  
+   - 📄 [FinalWorkPresentation_SumolCompal.pdf](./ORG_MANG_PROJECT/FinalWorkPresentation_SumolCompal.pdf) → Final Presentation (PDF)  
+   - 📄 [FinalWorkPresentation_SumolCompal.pptx](./ORG_MANG_PROJECT/FinalWorkPresentation_SumolCompal.pptx) → Final Presentation (PPTX)  
+   - 📄 [FinalWorkReport_SumolCompal.odt](./ORG_MANG_PROJECT/FinalWorkReport_SumolCompal.odt) → Final Report (ODT)  
+   - 📄 [FinalWorkReport_SumolCompal.pdf](./ORG_MANG_PROJECT/FinalWorkReport_SumolCompal.pdf) → Final Report (PDF)  
+   - 📄 [ProjectRequirements_OGE.pdf](./ORG_MANG_PROJECT/ProjectRequirements_OGE.pdf) → Project Requirements (UC guidelines)  
 
 ---
 
-## 🛠️ Metodologia
+## 📌 Case Study Contents
 
-O projeto foi desenvolvido em grupo, aplicando conceitos da aula de - Organização e Gestão de Empresas**, conforme definido no programa da UC.  
-
-Foram utilizadas fontes institucionais, relatórios de sustentabilidade e literatura académica para fundamentar a análise.  
+The project develops a comprehensive analysis of **Sumol+Compal**, covering:
+- History of the organization and the Sumol + Compal merger  
+- Key managers and milestones achieved  
+- Legal form and governance structure  
+- Products, services, and markets  
+- Mission, vision, and values  
+- Internal and external variables  
+- PEST and SWOT analysis  
+- Business strategies  
+- Organizational structure  
+- Leadership, motivational practices, and organizational culture  
+- Ethics and corporate social responsibility  
 
 ---
 
-## 👤 Autores
+## 👤 Authors
 
-Projeto desenvolvido por estudantes de **Informática - 2023/2024**:
-
+Project carried out by students of **Informatics - 2023/2024**:  
 - António Ferreira (A045774)  
 - Beatriz Almeida (A44416)  
 - Carolina Fernandes (A044897)  
@@ -54,13 +43,13 @@ Projeto desenvolvido por estudantes de **Informática - 2023/2024**:
 
 ---
 
-## 📚 Referências
+## 📚 References
 
-- [Site Oficial Sumol+Compal](https://sumolcompal.pt/)  
-- Relatórios Institucionais e de Sustentabilidade da Empresa  
-- Documentação académica e bibliográfica 
-- [Caso de Estudo Sumol+Compal – ISCTE](https://repositorio.iscte-iul.pt/bitstream/10071/1946/1/Caso%20Sumol%20Compal%20Vers%C3%A3o%20final.pdf)  
+- [Official Website Sumol+Compal](https://sumolcompal.pt/)  
+- Institutional and sustainability reports  
+- Teixeira, A. (2013). *Organização e Gestão de Empresas*  
+- [Sumol+Compal Case Study – ISCTE](https://repositorio.iscte-iul.pt/bitstream/10071/1946/1/Caso%20Sumol%20Compal%20Vers%C3%A3o%20final.pdf)  
 
 ---
 
-✨ *Um olhar académico sobre a Compal e a sua relevância no panorama empresarial português e internacional.*
+✨ *An academic perspective on Compal and its relevance in the Portuguese and international business landscape.*
